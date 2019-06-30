@@ -1,0 +1,10 @@
+1.Login (id ,password)
+2.Homepage -> class routine, navbar
+    2.1.Navbar-> My curriculum, Courses and results, offered courses ,grades by semester,
+    grades by curriculum, registration
+3.Courses and results
+4.offered courses
+5.grades by semester
+6.grades by curriculum
+7.registration
+8.My curriculum
